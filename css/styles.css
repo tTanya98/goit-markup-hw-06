@@ -673,6 +673,7 @@ img {
 .modal-form-agreement {
   display: flex;
   align-items: center;
+  margin-left: 12px;
   gap: 8px;
 }
 .modal-form-agreement-desc {
